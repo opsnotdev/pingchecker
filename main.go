@@ -1,0 +1,5 @@
+package pingchecker
+
+func main() {
+
+}
